@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="movie">
+        <item>부산행</item>
+        <item>컨저링2</item>
+        <item>도리를찾아서</item>
+        <item>나우유씨미2</item>
+    </string-array>
+</resources>
